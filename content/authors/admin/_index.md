@@ -77,6 +77,6 @@ I am currently visiting Pompeu Fabra University, within the framework of the Eur
 
 My research interests include, but are not limited to, household finance, macro-finance, political economy and text analysis. 
 
-Unsure why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), where I mostly rant about Italian politics and Juventus FC.
+Unsure why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), mostly ranting about Italian politics and Juventus FC.
 
 You can contact me at jan.mazza [at] eui.eu.
