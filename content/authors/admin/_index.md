@@ -14,7 +14,7 @@ organizations:
   url: https://www.eui.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include household finance, macro-finance, political economy and text analysis.
+bio: Econ PhD Candidate at EUI. My research interests include household finance, macro-finance, political economy and text analysis.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ highlight_name: true
 
 I am a PhD candidate in Economics at the European University Institute in Florence, where I work under the supervision of professors Ramon Marimon and Thomas Crossley.
 
-I am currently visiting Pompeu Fabra University, within the framework of the European Doctoral Programme in Quantitative Economics. 
+I am currently visiting Pompeu Fabra University in Barcelona, within the framework of the European Doctoral Programme in Quantitative Economics. 
 
 My research interests include, but are not limited to, household finance, macro-finance, political economy and text analysis. 
 
