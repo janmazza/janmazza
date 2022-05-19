@@ -28,6 +28,7 @@ experience:
     company: Robert Schuman Centre for Advanced Studies (EUI)
     location: Florence, Italy
     date_start: '2021-10-16'
+    date_end: '2022-01-16'
     description: Tasked with maintenance and improvement of EUI COVID19 Metadata portal under the supervision of prof. David Levine
 
   - title: Teaching Assistant
