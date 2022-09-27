@@ -18,6 +18,7 @@ bio: Econ PhD Candidate at EUI. My research interests include household finance,
 
 # Interests to show in About widget
 interests:
+- Structural Economics
 - Household Finance
 - Macro-finance
 - Political Economy
