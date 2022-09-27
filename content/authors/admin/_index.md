@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: MRes in Economics
+    institution: European University Institute (EUI)
+    year: 2020
   - course: MSc in Economics and Philosophy
     institution: London School of Economics and Political Science (LSE)
     year: 2017
