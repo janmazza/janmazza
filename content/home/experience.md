@@ -32,7 +32,7 @@ experience:
     date_end: '2023-01-01'
     description: Crisis Seminar taught by prof. Georgios Papakonstantinou
 
-  - title: Instructor
+  - title: Teaching Associate
     company: School of Transnational Governance (EUI)
     location: Florence, Italy
     date_start: '2022-09-01'
