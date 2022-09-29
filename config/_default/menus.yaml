@@ -10,8 +10,11 @@ main:
   - name: CV
     url: 'uploads/resume.pdf'
     weight: 20
+  - name: Teaching
+    url: 'teaching/'
+    weight: 30
   - name: Media
     url: 'media/'
-    weight: 30
+    weight: 40
 
 
