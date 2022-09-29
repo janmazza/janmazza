@@ -15,6 +15,7 @@ header:
 ---
 ## Teaching Associate
 - **Data for Policy Analysis** 
+  - School of Transnational Governance (EUI)
   - September 2022
   - Designed and delivered this 12-hour mandatory crash course for 1st year Master’s students, covering basic statistical concepts, methodological and philosophical challenges when working with data, distributions, regression analysis (Ordinary Least Squares, logit/probit), Difference-in-Differences, Randomized Control Trials 
 
@@ -22,6 +23,7 @@ header:
 ## Teaching Assistant
 
 - **Crisis Seminar** (Professor Georgios Papakonstantinou)
+  - School of Transnational Governance (EUI)
   - September 2022 - January 2023
   - September 2021 - January 2022
     - Assisted in designing and delivering this elective module for 2nd year Master’s students, covering five crisis episodes (Global Financial Crisis, Euro debt Crisis, Greek Crisis, COVID-19 and Ukraine invasion) from an economic and political perspective
