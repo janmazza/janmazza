@@ -24,6 +24,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teachin Assistant
+    company: School of Transnational Governance (EUI)
+    location: Florence, Italy
+    date_start: '2023-01-01'
+    date_end: '2023-04-28'
+    description: Economics II: Macro and International Economics taught by prof. Georgios Papakonstantinou
 
   - title: Teaching Assistant
     company: School of Transnational Governance (EUI)
