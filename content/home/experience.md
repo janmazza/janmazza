@@ -29,7 +29,7 @@ experience:
     location: Florence, Italy
     date_start: '2023-01-01'
     date_end: '2023-04-28'
-    description: Economics II: Macro and International Economics taught by prof. Georgios Papakonstantinou
+    description: 'Economics II: Macro and International Economics taught by prof. Georgios Papakonstantinou'
 
   - title: Teaching Assistant
     company: School of Transnational Governance (EUI)
