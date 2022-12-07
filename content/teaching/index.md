@@ -22,6 +22,10 @@ header:
 
 ## Teaching Assistant
 
+- **Economics II: Macro and International Economics** (Professor [Georgios Papakonstantinou](https://www.eui.eu/people?id=georgios-papakonstantinou))
+  - School of Transnational Governance (EUI)
+  - January 2023 - April 2023
+
 - **Crisis Seminar** (Professor [Georgios Papakonstantinou](https://www.eui.eu/people?id=georgios-papakonstantinou))
   - School of Transnational Governance (EUI)
   - September 2022 - January 2023
