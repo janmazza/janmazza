@@ -75,9 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the European University Institute in Florence, where I work under the supervision of professors Ramon Marimon and Thomas Crossley. In the first semester of 2022, I visited Pompeu Fabra University in Barcelona, within the framework of the European Doctoral Programme in Quantitative Economics. 
+I am a PhD candidate in Economics at the European University Institute in Florence, where I work under the supervision of professors Ramon Marimon and Thomas Crossley.  
 
-My research interests include, but are not limited to, structural economics, household finance, macro-finance, political economy and text analysis. 
+My research interests include, but are not limited to, household finance, macro-finance, and social mobility.. 
 
 Unsure why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), mostly ranting about Italian politics and Juventus FC.
 
