@@ -18,11 +18,11 @@ bio: Econ PhD Candidate at EUI. My research interests include household finance,
 
 # Interests to show in About widget
 interests:
-- Structural Economics
 - Household Finance
 - Macro-finance
+- Social Mobility
 - Political Economy
-- Text Analysis
+- Structural Economics
 
 # Education to show in About widget
 education:
@@ -79,6 +79,6 @@ I am a PhD candidate in Economics at the European University Institute in Floren
 
 My research interests include, but are not limited to, household finance, macro-finance, and social mobility. 
 
-Unsure why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), mostly ranting about Italian politics and Juventus FC.
+Unclear why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), mostly ranting about Italian politics and Juventus FC.
 
-You can contact me at jan.mazza [at] eui.eu.
+You can contact me at jan [dot] mazza [at] eui [dot] eu.
