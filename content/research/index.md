@@ -27,6 +27,11 @@ studying counterfactual scenarios. </font>
   - <ins>Abstract</ins>: In surveys, it is seldom possible to obtain the most accurate available measure of any variable of interest, given the high costs (monetary and not) associated to the necessary procedures. In the context of Understanding Society, we consider the setting of blood pressure measurements as gathered by nurses and compare them with self-taken and interviewer-taken ones. Assuming classical measurement error for nurse-taken measures and non-classical error for the other two sources, we estimate the parameters of interest through Generalised Method of Moments (GMM) in order to correct for any possible bias in measures exhibiting non-classical error.</font> <br/><br/>
 ----------------
 
+## <ins>Working Papers</ins><br/><br/>
+- **Does the feedback of blood results in observational studies influence response and consent? A randomised study of the Understanding Society Innovation Panel** *R&R at [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)* <font size="-1"> (joint work with Michaela Benzeval, Alexandria Andrayas, Tarek Al Baghal, Jonathon Burton, Thomas Crossley, Meena Kumari) </font>
+
+-------------
+
 ## <ins>Policy Publications</ins><br/><br/>
 - [**Effectiveness of Cohesion Policy: Learning from the programme characteristics that produce the best results**](https://www.bruegel.org/2019/06/effectiveness-of-cohesion-policy-learning-from-the-project-characteristics-that-produce-the-best-results-2/) <font size="-1"> (joint work with Zsolt Darvas, Antoine Mathieu-Collin and Catarina Midoes, prepared for the Regional Development Committee (REGI) of the European Parliament, 2019) </font>
 
