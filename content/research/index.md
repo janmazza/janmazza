@@ -28,7 +28,8 @@ studying counterfactual scenarios. </font>
 ----------------
 
 ## <ins>Working Papers</ins><br/><br/>
-- **Does the feedback of blood results in observational studies influence response and consent? A randomised study of the Understanding Society Innovation Panel** *R&R at [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)* <font size="-1"> (joint work with Michaela Benzeval, Alexandria Andrayas, Tarek Al Baghal, Jonathon Burton, Thomas Crossley, Meena Kumari) </font>
+- **Does the feedback of blood results in observational studies influence response and consent? A randomised study of the Understanding Society Innovation Panel** <font size="-1"> (joint work with Michaela Benzeval, Alexandria Andrayas, Tarek Al Baghal, Jonathon Burton, Thomas Crossley, Meena Kumari) </font> \
+*R&R at [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)* 
 
 -------------
 
