@@ -75,7 +75,7 @@ experience:
     description: |2-
       * Published policy contributions on monetary policy and cohesion policies for different committees of the European Parliament
       * Authored and co-authored blog posts (occasionally featured on *lavoce.info*, *makronom.de*, *ft.com*)
-      * Full list of contributions available [here](https://www.bruegel.org/author/jan-mazza/)
+      * Full list of contributions available [here](https://www.linkedin.com/in/jan-mazza/details/experience/urn:li:fsd_profilePosition:(ACoAABMVEV8Bthi8khZs5leMwkxUTm-MNyTIy98,1356578902)/treasury/)
 
   - title: Intern
     company: Assonime
