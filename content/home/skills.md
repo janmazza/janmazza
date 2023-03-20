@@ -26,15 +26,15 @@ feature:
   name: Python
 - description: Advanced
   icon: terminal
-  icon_pack: fab
+  icon_pack: fas
   name: Julia
 - description: Advanced
   icon: terminal
-  icon_pack: fab
+  icon_pack: fas
   name: Matlab
 - description: Advanced
   icon: terminal
-  icon_pack: fab
+  icon_pack: fas
   name: Stata
 
 

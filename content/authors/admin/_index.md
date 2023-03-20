@@ -48,18 +48,19 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jan_mazza
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=en&user=sbrAYfUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/janmazza
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jan-mazza
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jan_mazza
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
