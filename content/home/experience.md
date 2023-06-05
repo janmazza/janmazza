@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Research Officer
+    company: International Monetary Fund (IMF)
+    location: Washington DC, United States
+    date_start: '2023-06-05'
+    date_end: '2023-07-15'
+
+
   - title: Teaching Assistant
     company: School of Transnational Governance (EUI)
     location: Florence, Italy
