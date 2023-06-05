@@ -14,7 +14,7 @@ organizations:
   url: https://www.eui.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Econ PhD Candidate at EUI. My research interests include household finance, macro-finance, international economics.
+bio: Econ PhD Candidate at EUI. My research interests include household finance, macro-finance, international macro, social mobility.
 
 # Interests to show in About widget
 interests:
@@ -76,9 +76,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the European University Institute in Florence, where I work under the supervision of professors Ramon Marimon and Thomas Crossley. I am currently visiting the International Monetary Fund in Washington, United States.
+I am a PhD candidate in Economics at the European University Institute, where I work under the supervision of professors Ramon Marimon and Thomas Crossley. I am currently visiting the International Monetary Fund.
 
-My research interests include, but are not limited to, household finance, macro-finance, international economics, and social mobility. 
+My research interests include, but are not limited to, household finance, international macro, and social mobility. 
 
 Unclear why you would do that, but you can also find me on [{{< icon name="twitter" pack="fab">}}](http://twitter.com/jan_mazza), mostly ranting about Italian politics and Juventus FC.
 
