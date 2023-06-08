@@ -12,6 +12,13 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+  
+----------------
+
+## <ins>Publications</ins><br/><br/>
+- [**Does the feedback of blood results in observational studies influence response and consent? A randomised study of the Understanding Society Innovation Panel**](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01948-y) <font size="-1"> (joint work with Michaela Benzeval, Alexandria Andrayas, Tarek Al Baghal, Jonathon Burton, Thomas Crossley, Meena Kumari) \
+*BMC Medical Research Methodology, (2023) 23:134* </font> 
+
 ----------------
 ## <ins>Work in progress</ins><br/><br/>
 - **Inheritance expectations and youths' education in Italy** 
@@ -25,11 +32,7 @@ header:
 
 - **Classical and non-classical measurement errors in blood pressure measures from Understanding Society: an estimation** <font size="-1">  (joint work with Thomas Crossley) 
   - <ins>Abstract</ins>: In surveys, it is seldom possible to obtain the most accurate available measure of any variable of interest, given the high costs (monetary and not) associated to the necessary procedures. In the context of Understanding Society, we consider the setting of blood pressure measurements as gathered by nurses and compare them with self-taken and interviewer-taken ones. Assuming classical measurement error for nurse-taken measures and non-classical error for the other two sources, we estimate the parameters of interest through Generalised Method of Moments (GMM) in order to correct for any possible bias in measures exhibiting non-classical error.</font> <br/><br/>
-----------------
 
-## <ins>Working Papers</ins><br/><br/>
-- **Does the feedback of blood results in observational studies influence response and consent? A randomised study of the Understanding Society Innovation Panel** <font size="-1"> (joint work with Michaela Benzeval, Alexandria Andrayas, Tarek Al Baghal, Jonathon Burton, Thomas Crossley, Meena Kumari) </font> \
-*R&R at [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)* 
 
 -------------
 
