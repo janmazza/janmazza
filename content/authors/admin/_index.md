@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the European University Institute, where I work under the supervision of professors Ramon Marimon and Thomas Crossley. I am currently visiting the International Monetary Fund.
+I am a PhD candidate in Economics at the European University Institute, where I work under the supervision of professors Ramon Marimon and Thomas Crossley, and a Research Fellow at the University of Bologna.
 
 My research interests include, but are not limited to, household finance, international macro, and social mobility. 
 
