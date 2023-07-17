@@ -24,11 +24,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Fellow
+    company: Università di Bologna
+    location: Bologna, Italy
+    date_start: '2023-07-15'
+
   - title: Visiting Research Officer
     company: International Monetary Fund (IMF)
     location: Washington DC, United States
     date_start: '2023-06-05'
-    date_end: '2023-07-15'
+    date_end: '2023-07-07'
 
 
   - title: Teaching Assistant
@@ -36,14 +41,14 @@ experience:
     location: Florence, Italy
     date_start: '2023-01-01'
     date_end: '2023-04-28'
-    description: 'Economics II: Macro and International Economics taught by prof. Georgios Papakonstantinou'
+    description: 'Economics II: Macro and International Economics, prof. Georgios Papakonstantinou'
 
   - title: Teaching Assistant
     company: School of Transnational Governance (EUI)
     location: Florence, Italy
     date_start: '2022-09-01'
     date_end: '2023-01-01'
-    description: Crisis Seminar taught by prof. Georgios Papakonstantinou
+    description: Crisis Seminar, prof. Georgios Papakonstantinou
 
   - title: Teaching Associate
     company: School of Transnational Governance (EUI)
@@ -64,7 +69,7 @@ experience:
     location: Florence, Italy
     date_start: '2021-09-01'
     date_end: '2022-01-01'
-    description: Crisis Seminar taught by prof. Georgios Papakonstantinou
+    description: Crisis Seminar, prof. Georgios Papakonstantinou
 
 
   - title: Research Assistant
