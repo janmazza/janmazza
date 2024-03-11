@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.adrianmoreno.info/</link>
+    <link>https://www.janmazza.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.janmazza.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media</title>
-      <link>https://www.adrianmoreno.info/media/</link>
+      <link>https://www.janmazza.com/media/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.adrianmoreno.info/media/</guid>
+      <guid>https://www.janmazza.com/media/</guid>
       <description>Media contributions.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://www.adrianmoreno.info/research/</link>
+      <link>https://www.janmazza.com/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.adrianmoreno.info/research/</guid>
+      <guid>https://www.janmazza.com/research/</guid>
       <description>Current and past work</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://www.adrianmoreno.info/teaching/</link>
+      <link>https://www.janmazza.com/teaching/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.adrianmoreno.info/teaching/</guid>
+      <guid>https://www.janmazza.com/teaching/</guid>
       <description>Teaching experiences</description>
     </item>
     
